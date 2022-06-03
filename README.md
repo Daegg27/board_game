@@ -2,7 +2,7 @@
 
 ## Summary
 
-The goal of this exercise is to create a [4x4 grid of randomly generated letters](https://s-media-cache-ak0.pinimg.com/originals/f0/92/03/f09203920ca7db9c7f3e9247308a8482.jpg), according to the rules of Boggle. If you're not familiar with boggle, you can [read more on wikipedia](http://en.wikipedia.org/wiki/Boggle).
+The goal of this exercise is to create a [4x4 grid of randomly generated letters](https://s-media-cache-ak0.pinimg.com/originals/f0/92/03/f09203920ca7db9c7f3e9247308a8482.jpg), according to the rules of Boggle. If you're not familiar with boggle, you can [read more on wikipedia](3).
 
 
 ### Step 1: Basic Boggle Board
