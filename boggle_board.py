@@ -24,7 +24,7 @@ class BoggleBoard:
     for char in string_to_list:
       if char == "Q":
         print("totally is working")
-        char = "Qu"
+        string_to_list[string_to_list.index(char)] = "Qu"
     print(string_to_list)
     board_string = "".join(string_to_list)
 
